@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/jessicacis174/databases/multipage",
+      "type": "mssql.azure",
+      "connectionId": "MultiPageContext",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
